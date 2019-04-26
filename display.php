@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+
+<?php
+$user="root";
+$pass="";
+$database="amc";
+
+mysql_connect(localhost,$user,$pass);
+@mysql_select_db($database) or die ("Siwezi kuona kabati!!!");
+
+$query="SELECT * FROM deals";
+$result=mysql_query($query);
+
+$num=mysql_numrows($result);
+
+mysql_close();
+?>
+<table border="2" cellspacing="2" cellpadding="2">
+<tr>
+<td><font face="Arial. Helvetica, sans-serif"><b>Date</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Sales Exec.</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Name</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Company</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Title</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Phone</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Cellphone</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Fax</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>E-Mail</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Country</b></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><b>Event</b></font></td>
+</tr>
+
+<?php
+
+$i=0;
+while ($i < $num) {
+
+$date=mysql_result($result,$i,"date");
+$se=mysql_result($result,$i,"se");
+$name=mysql_result($result,$i,"name");
+$company=mysql_result($result,$i,"company");
+$title=mysql_result($result,$i,"title");
+$phone=mysql_result($result,$i,"phone");
+$cel=mysql_result($result,$i,"cel");
+$fax=mysql_result($result,$i,"fax");
+$email=mysql_result($result,$i,"email");
+$country=mysql_result($result,$i,"country");
+$event=mysql_result($result,$i,"event");
+?>
+<tr>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $date; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $se; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $name; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $company; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $title; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $phone; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $cel; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $fax; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $email; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $country; ?></font></td>
+<td><font face="Arial. Helvetica, sans-serif"><?php echo $event; ?></font></td>
+</tr>
+
+<?php
+
+$i++;
+}
+?>
+<a href='index.php'>Back to HomePage</a>
+</body>
+</html>

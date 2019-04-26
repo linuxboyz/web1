@@ -1,0 +1,53 @@
+/* some enhnancement to correct what EXT overwrites and messes up the layout*/
+/*
+body {
+    -moz-box-sizing: content-box !important;
+}*/
+/*
+.x-form-trigger-input-cell{
+    -moz-box-sizing: border-box !important;
+}*/
+.x-body {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+}
+
+.x-grid-row-summary {
+    font-weight: bold;
+    font-style:italic;
+    border-top: 1px solid red;
+}
+.x-grid-group-title{
+    color: #862C7E;
+}
+
+/* CSS hacks to overcome the SUgar Classic Theme definitions for Checkboxes */
+input[type="button"] {
+    background-image: none;
+    background-position: left top; 
+    background-color: transparent;
+}
+
+.x-form-radio {
+    background-image: url("../extjs4/resources/themes/images/gray/form/radio.gif") !important;
+}
+.x-form-checkbox{
+    background-image:  url("../extjs4/resources/themes/images/gray/form/checkbox.gif") !important;
+}
+/* 2012-11-28 added for classic theme support */
+#subModuleList ul.cssmenu{
+    z-index: 1000;
+}
+/* 2013-01-25 hiode overflow so trigger icos are visible */
+.x-form-trigger-input-cell{
+    overflow: hidden;
+}
+
+/* show finger ponters based on Jason's feedback */
+#optionsArea .x-panel-header, #optionsArea .x-panel-header-text {
+	cursor: hand; cursor: pointer;
+}
+
+.x-grid-cell-operator:hover, .x-grid-cell-value:hover, .x-grid-cell-valueto:hover {
+	cursor: hand; cursor: pointer;
+}
+

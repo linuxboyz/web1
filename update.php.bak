@@ -1,0 +1,41 @@
+<?php
+$host="localhost"; // Host name 
+$username="root"; // Mysql username 
+$password=""; // Mysql password 
+$db_name="amc"; // Database name 
+$tbl_name="deals"; // Table name
+
+// Connect to server and select database.
+mysql_connect("$host", "$username", "$password")or die("cannot connect"); 
+mysql_select_db("$db_name")or die("cannot select DB");
+
+// get value of id that sent from address bar
+$mail=$_GET['mail'];
+
+// Retrieve data from database 
+$sql="SELECT * FROM $tbl_name WHERE mail='$mail'";
+$result=mysql_query($sql);
+$rows=mysql_fetch_array($result);
+?>
+<form method="post">
+<strong>Update data in mysql</strong> 
+<p><strong>Date</strong> <input name="date" type="text" id="date" value="<?php echo $rows['date']; ?>"></p>
+<p><strong>Sales Exec.</strong><input name="se" type="text" id="se" value="<?php echo $rows['se']; ?>"> </p>
+<p><strong>Name</strong><input name="name" type="text" id="name" value="<?php echo $rows['name']; ?>"> </p>
+<p><strong>Company</strong> <input name="company" type="text" id="company" value="<?php echo $rows['company']; ?>"></p>
+<p><strong>Job Title</strong><input name="title" type="text" id="title" value="<?php echo $rows['title']; ?>"> </p>
+<p><strong>Telephone</strong> <input name="phone" type="text" id="phone" value="<?php echo $rows['phone']; ?>"></p>
+<p><strong>Fax</strong><input name="fax" type="text" id="fax" value="<?php echo $rows['fax']; ?>"></p>
+<p><strong>Cellphone</strong><input name="cel" type="text" id="cel" value="<?php echo $rows['cel']; ?>"></p>
+<p><strong>Email</strong><input name="mail" type="text" id="mail" value="<?php echo $rows['mail']; ?>" size="15"></p>
+<p><strong>Country</strong><input name="country" type="text" id="country" value="<?php echo $rows['country']; ?>" size="15"></p>
+<p><strong>Event</strong><input name="event" type="text" id="event" value="<?php echo $rows['event']; ?>"></p>
+<p>
+<input type="submit" name="Submit" value="Submit" />
+</p>
+</form>
+
+<?php
+// close connection 
+mysql_close();
+?>

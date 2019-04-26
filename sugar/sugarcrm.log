@@ -1,0 +1,642 @@
+Wed May 29 12:18:07 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:07 2013 [11556][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:18:07 2013 [11556][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Begin DB Check Process *************
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: testing with mysql:mysqli
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Basic form info is valid, continuing Process.
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Testing user account...
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Connection made using  host: 127.0.0.1, usr: yudah
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Testing priviliged account...
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Connection made using  host: 127.0.0.1, usr: yudah
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: DB not selected, will create sugarcrm
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: Passed DB install check
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: SUCCESS:: no errors detected!
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: End DB Check Process *************
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not create the install.log file
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:18:11 2013 [11556][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:19:09 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:19:09 2013 [11553][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:19:09 2013 [11553][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Begin DB Check Process *************
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: testing with mysql:mysqli
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Basic form info is valid, continuing Process.
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Testing user account...
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Connection made using  host: 127.0.0.1, usr: root
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Testing priviliged account...
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Connection made using  host: 127.0.0.1, usr: root
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: Passed DB install check
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] could not write to install.log: End DB Check Process *************
+Wed May 29 12:20:22 2013 [11557][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:20:24 2013 [11557][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:24 2013 [11557][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:20:24 2013 [11557][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:20:48 2013 [11554][-none-][FATAL] could not create the install.log file
+Wed May 29 12:20:48 2013 [11554][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:20:48 2013 [11554][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:21:41 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:21:41 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:21:41 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:21:42 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:21:42 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:21:42 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:21:45 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:21:45 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:21:45 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:21:48 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:21:48 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:21:48 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:21:53 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:21:53 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:21:53 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:22:00 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:00 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:22:00 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Begin DB Check Process *************
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: testing with mysql:mysqli
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Basic form info is valid, continuing Process.
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Testing user account...
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Connection made using  host: 127.0.0.1, usr: root
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Testing priviliged account...
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Connection made using  host: 127.0.0.1, usr: root
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: Passed DB install check
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] could not write to install.log: End DB Check Process *************
+Wed May 29 12:22:06 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:22:08 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:08 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:22:08 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:22:13 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:13 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:22:13 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:22:25 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:25 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:22:25 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:22:29 2013 [11587][-none-][FATAL] could not create the install.log file
+Wed May 29 12:22:29 2013 [11587][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:22:29 2013 [11587][-none-][FATAL] Could not connect to DB server localhost as yudah. port : Access denied for user 'yudah'@'localhost' to database 'sugarcrm'
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not write to install.log: calling handleSugarConfig()
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not write to install.log: calling handleLog4Php()
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not write to install.log: calling handleHtaccess()
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:12 2013 [11553][-none-][FATAL] could not write to install.log: calling handleDbCharsetCollation()
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: looping through all the Beans and create their tables
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: processing table acl_actions
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: dropping table acl_actions
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: creating table acl_actions
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for ACLAction
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: processing table acl_roles
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: dropping table acl_roles
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: creating table acl_roles
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for ACLRole
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: processing table relationships
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: dropping table relationships
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: creating table relationships
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:13 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Relationship
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not write to install.log: processing table leads
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not write to install.log: dropping table leads
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not write to install.log: creating table leads
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:14 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Lead
+Wed May 29 12:23:15 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:15 2013 [11553][-none-][FATAL] could not write to install.log: processing table cases
+Wed May 29 12:23:15 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:15 2013 [11553][-none-][FATAL] could not write to install.log: dropping table cases
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not write to install.log: creating table cases
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Case
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not write to install.log: processing table bugs
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:16 2013 [11553][-none-][FATAL] could not write to install.log: dropping table bugs
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not write to install.log: creating table bugs
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Bug
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not write to install.log: processing table users
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:17 2013 [11553][-none-][FATAL] could not write to install.log: dropping table users
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: creating table users
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for User
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: processing table campaign_log
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: dropping table campaign_log
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: creating table campaign_log
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for CampaignLog
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: processing table project
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:18 2013 [11553][-none-][FATAL] could not write to install.log: dropping table project
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not write to install.log: creating table project
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Project
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not write to install.log: processing table project_task
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:19 2013 [11553][-none-][FATAL] could not write to install.log: dropping table project_task
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not write to install.log: creating table project_task
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for ProjectTask
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not write to install.log: processing table campaigns
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:20 2013 [11553][-none-][FATAL] could not write to install.log: dropping table campaigns
+Wed May 29 12:23:21 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:21 2013 [11553][-none-][FATAL] could not write to install.log: creating table campaigns
+Wed May 29 12:23:21 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:21 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Campaign
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not write to install.log: processing table prospect_lists
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not write to install.log: dropping table prospect_lists
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not write to install.log: creating table prospect_lists
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for ProspectList
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not write to install.log: processing table prospects
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:22 2013 [11553][-none-][FATAL] could not write to install.log: dropping table prospects
+Wed May 29 12:23:23 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:23 2013 [11553][-none-][FATAL] could not write to install.log: creating table prospects
+Wed May 29 12:23:23 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:23 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Prospect
+Wed May 29 12:23:24 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:24 2013 [11553][-none-][FATAL] could not write to install.log: processing table email_marketing
+Wed May 29 12:23:24 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:24 2013 [11553][-none-][FATAL] could not write to install.log: dropping table email_marketing
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: creating table email_marketing
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailMarketing
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: processing table campaign_trkrs
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: dropping table campaign_trkrs
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: creating table campaign_trkrs
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for CampaignTracker
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: processing table releases
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:25 2013 [11553][-none-][FATAL] could not write to install.log: dropping table releases
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating table releases
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Release
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: processing table emailman
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: dropping table emailman
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating table emailman
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailMan
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: processing table schedulers
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: dropping table schedulers
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating table schedulers
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Scheduler
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: processing table job_queue
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: dropping table job_queue
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating table job_queue
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for SchedulersJob
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: processing table contacts
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:26 2013 [11553][-none-][FATAL] could not write to install.log: dropping table contacts
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not write to install.log: creating table contacts
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Contact
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not write to install.log: processing table accounts
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:27 2013 [11553][-none-][FATAL] could not write to install.log: dropping table accounts
+Wed May 29 12:23:28 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:28 2013 [11553][-none-][FATAL] could not write to install.log: creating table accounts
+Wed May 29 12:23:28 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:28 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Account
+Wed May 29 12:23:29 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:29 2013 [11553][-none-][FATAL] could not write to install.log: processing table opportunities
+Wed May 29 12:23:29 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:29 2013 [11553][-none-][FATAL] could not write to install.log: dropping table opportunities
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not write to install.log: creating table opportunities
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Opportunity
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not write to install.log: processing table email_templates
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:30 2013 [11553][-none-][FATAL] could not write to install.log: dropping table email_templates
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not write to install.log: creating table email_templates
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailTemplate
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not write to install.log: processing table notes
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:31 2013 [11553][-none-][FATAL] could not write to install.log: dropping table notes
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not write to install.log: creating table notes
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Note
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not write to install.log: processing table calls
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:32 2013 [11553][-none-][FATAL] could not write to install.log: dropping table calls
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not write to install.log: creating table calls
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Call
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not write to install.log: processing table emails
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not write to install.log: dropping table emails
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not write to install.log: creating table emails
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:33 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Email
+Wed May 29 12:23:34 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:34 2013 [11553][-none-][FATAL] could not write to install.log: processing table meetings
+Wed May 29 12:23:34 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:34 2013 [11553][-none-][FATAL] could not write to install.log: dropping table meetings
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not write to install.log: creating table meetings
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Meeting
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not write to install.log: processing table tasks
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:35 2013 [11553][-none-][FATAL] could not write to install.log: dropping table tasks
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating table tasks
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Task
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table users
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table users
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table currencies
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: dropping table currencies
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating table currencies
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Currency
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table tracker
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: dropping table tracker
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating table tracker
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Tracker
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table import_maps
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: dropping table import_maps
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating table import_maps
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for ImportMap
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table users_last_import
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: dropping table users_last_import
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating table users_last_import
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for UsersLastImport
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: processing table config
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:36 2013 [11553][-none-][FATAL] could not write to install.log: dropping table config
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating table config
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Administration
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: processing table upgrade_history
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: dropping table upgrade_history
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating table upgrade_history
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for UpgradeHistory
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: processing table vcals
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: dropping table vcals
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating table vcals
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for vCal
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: processing table versions
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: dropping table versions
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating table versions
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Version
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: processing table roles
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: dropping table roles
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating table roles
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Role
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: processing table documents
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:37 2013 [11553][-none-][FATAL] could not write to install.log: dropping table documents
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating table documents
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for Document
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: processing table document_revisions
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: dropping table document_revisions
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating table document_revisions
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for DocumentRevision
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: processing table fields_meta_data
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: dropping table fields_meta_data
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating table fields_meta_data
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for FieldsMetaData
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: processing table inbound_email
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: dropping table inbound_email
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating table inbound_email
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:38 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for InboundEmail
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table saved_search
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: dropping table saved_search
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating table saved_search
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for SavedSearch
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table user_preferences
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: dropping table user_preferences
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating table user_preferences
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for UserPreference
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table 
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table email_addresses
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: dropping table email_addresses
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating table email_addresses
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailAddress
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table emails_text
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: dropping table emails_text
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating table emails_text
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for EmailText
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table sugarfeed
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: dropping table sugarfeed
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating table sugarfeed
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for SugarFeed
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: processing table eapm
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:39 2013 [11553][-none-][FATAL] could not write to install.log: dropping table eapm
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not write to install.log: creating table eapm
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for EAPM
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not write to install.log: processing table oauth_consumer
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:40 2013 [11553][-none-][FATAL] could not write to install.log: dropping table oauth_consumer
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not write to install.log: creating table oauth_consumer
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for OAuthKey
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not write to install.log: processing table oauth_tokens
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not write to install.log: dropping table oauth_tokens
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not write to install.log: creating table oauth_tokens
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:41 2013 [11553][-none-][FATAL] could not write to install.log: creating Relationship Meta for OAuthToken
+Wed May 29 12:23:49 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:49 2013 [11553][-none-][FATAL] could not write to install.log: Begin creating Defaults
+Wed May 29 12:23:49 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:49 2013 [11553][-none-][FATAL] could not write to install.log: insert defaults into config table
+Wed May 29 12:23:50 2013 [11553][-none-][FATAL] could not create the install.log file
+Wed May 29 12:23:50 2013 [11553][-none-][FATAL] could not write to install.log: Creating default users
+Wed May 29 12:23:50 2013 [11553][1][FATAL] could not create the install.log file
+Wed May 29 12:23:50 2013 [11553][1][FATAL] could not write to install.log: Creating default scheduler jobs
+Wed May 29 12:23:50 2013 [11553][1][FATAL] could not create the install.log file
+Wed May 29 12:23:50 2013 [11553][1][FATAL] could not write to install.log: Enable SugarFeeds
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not create the install.log file
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not write to install.log: Enable InsideView Connector
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not create the install.log file
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not write to install.log: Creating FTS logic hook
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not create the install.log file
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not write to install.log: populating the db with seed data
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not create the install.log file
+Wed May 29 12:23:51 2013 [11553][1][FATAL] could not write to install.log: Installation has completed *********
+Wed May 29 12:24:22 2013 [11555][-none-][FATAL] could not create the install.log file
+Wed May 29 12:24:22 2013 [11555][-none-][FATAL] could not write to install.log: installerHook: Could not find custom/install/install_hooks.php
+Thu May 30 11:37:57 2013 [3671][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: YES)
+Thu May 30 11:41:22 2013 [3675][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: YES)
+Thu May 30 12:16:28 2013 [3533][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: YES)
+Thu May 30 12:18:38 2013 [4618][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun  6 11:43:46 2013 [4303][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Jun  6 11:43:46 2013 [4303][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Thu Jun  6 11:44:02 2013 [3533][-none-][FATAL] SECURITY: User authentication for admin failed
+Thu Jun  6 11:44:02 2013 [3533][-none-][FATAL] FAILED LOGIN:attempts[2] - admin
+Thu Jun  6 12:02:32 2013 [2807][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun  6 12:03:16 2013 [4795][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun  6 12:06:35 2013 [2657][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun  6 12:43:44 2013 [5698][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 13 19:04:16 2013 [5690][-none-][FATAL] SECURITY: User authentication for root failed
+Thu Jun 13 19:04:16 2013 [5690][-none-][FATAL] FAILED LOGIN:attempts[1] - root
+Thu Jun 20 10:57:19 2013 [15569][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:05:36 2013 [16697][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:06:28 2013 [9349][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:08:57 2013 [3641][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:10:07 2013 [16697][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:15:44 2013 [16936][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:19:03 2013 [17525][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:21:31 2013 [17631][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:23:30 2013 [16218][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:25:21 2013 [17822][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:27:08 2013 [17008][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:29:14 2013 [18166][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:39:34 2013 [17598][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:41:50 2013 [16218][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:44:01 2013 [17008][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:46:39 2013 [19334][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:48:19 2013 [17525][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:50:33 2013 [19332][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 11:58:08 2013 [19102][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:01:44 2013 [20085][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:04:09 2013 [18166][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:05:27 2013 [15569][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:07:13 2013 [19332][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:08:44 2013 [19334][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:10:14 2013 [20719][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:11:41 2013 [15569][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:12:58 2013 [16218][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:15:36 2013 [20729][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:17:00 2013 [21174][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:18:26 2013 [20996][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Thu Jun 20 12:20:44 2013 [21177][-none-][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Fri Jun 21 12:26:16 2013 [3842][1][FATAL] UpgradeWizard could not create the upgradeWizard.log file
+Fri Jun 21 12:44:23 2013 [3905][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Fri Jun 21 13:02:16 2013 [6339][1][FATAL] ERROR: There was an error during your upload, please contact an administrator for help.
+Fri Jun 21 13:02:27 2013 [6339][1][FATAL] A user (1) attempted to use an invalid file for the logo - upload://tmp_logo_company_upload/AMC%20Logo.PNG
+Fri Jun 21 13:03:00 2013 [6486][1][FATAL] A user (1) attempted to use an invalid file for the logo - upload://tmp_logo_company_upload/AMC%20Logo.PNG
+Fri Jun 21 13:03:07 2013 [6486][1][FATAL] ERROR: There was an error during your upload, please contact an administrator for help.
+Fri Jun 21 13:06:01 2013 [6340][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Fri Jun 21 13:06:18 2013 [7050][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Fri Jun 21 13:08:43 2013 [6403][1][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Fri Jun 21 13:14:36 2013 [6340][-none-][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
+Mon Jul  1 12:02:24 2013 [4555][-none-][FATAL] SMTP -> ERROR:AUTH not accepted from server. Code: 502 Reply: 502 unimplemented (#5.5.1)
+
